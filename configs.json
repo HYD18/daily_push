@@ -12,5 +12,5 @@
   "appSecret": "722e9c26691627bf946b6353f1bf508c",
   "templateId": "286CmvLdho5hic9ESbjmExcsfDyAyrujVsbyNBW3COc",
   "toUser": ["oicwk52s-rG0IZOPyCqhiHVOoS0o"],
-  "oneType": "d"
+  "oneType": "https://v1.hitokoto.cn/?c=f&encode=text"
 }
